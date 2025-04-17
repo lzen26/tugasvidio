@@ -1,0 +1,130 @@
+.components1{
+  width: 100;
+  display:flex;
+  justify-content: space-between;
+}
+
+.kepala1{
+  width: 14.115vw;
+  height: 5.052vw;
+  top: 5.052vw;
+  left: 5.729vw;
+  font-family: Inter;
+  font-weight: 36.458vw;
+  font-size: 4.167vw;
+}
+
+.kepala2{
+  width: 16.771vw;
+  height: 1.771vw;
+  top: 7.708vw;
+  font-family: Inter;
+  font-weight: 36.458vw;
+  font-size: 1.458vw;
+}
+
+.video{
+  width: 68.333vw;
+  height: 38.438vw;
+  top: 12.76vw;
+  left: 15.417vw;
+}
+
+.component2 {
+  width: 100vw;
+  height: 56.25vw;
+  top: 56.25vw;
+}
+
+.kepala3{
+margin-top: 300px;
+width: 37.188vw;
+height:3.864vw;
+top: 61.979vw;
+left: 5.729vw;
+font-family: Inter;
+font-weight: 5.729vw;
+font-size: 2.917vw;
+line-height: 100%;
+}
+
+.kepala4{
+width: 106.771vw; 
+height: 35.677vw; 
+top: 71.25vw; 
+left: 5.729vw;
+gap: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.gambar2{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.25vw; 
+left: 5.729vw;
+  
+}
+.gambar3{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.25vw; 
+left: 23.958vw;
+
+}
+.gambar4{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.51vw;
+left: 42.188vw;
+
+}
+.gambar5{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.51vw; 
+left: 60.417vw;
+
+}
+.gambar6{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.51vw; 
+left: 78.646vw;
+
+}
+.gambar7{
+width: 15.625vw;
+height: 30.99vw;
+top: 71.51vw; 
+left: 96.875vw;
+opacity: 0.021vw;
+
+
+
+}
+.gambar8{
+width:1.823vw;
+height: 1.823vw;
+top: 105.104vw; 
+left: 105.104vw;
+/* display: flex;
+margin-right: 40px; */
+}
+
+.gambar9{
+width: 1.823vw;
+height: 1.823vw;
+top: 105.104vw; 
+left: 91.719vw;
+ /* display: flex; */
+/* margin-right: 40px;  */
+}
+
+.TombolButton {
+  gap:15px;
+  display: flex;
+  margin-right: 40px;
+}
