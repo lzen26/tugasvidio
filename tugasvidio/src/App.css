@@ -14,14 +14,16 @@
   font-size: 4.167vw;
 }
 
-.kepala2{
-  width: 16.771vw;
-  height: 1.771vw;
-  top: 7.708vw;
-  font-family: Inter;
-  font-weight: 36.458vw;
-  font-size: 1.458vw;
+.kepala2 {
+  position: absolute;
+  top: 2vw;
+  right: 2vw;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 1.2vw;
+  text-align: right;
 }
+
 
 .video{
   width: 68.333vw;
@@ -32,7 +34,7 @@
 
 .component2 {
   width: 100vw;
-  height: 56.25vw;
+  /* height: 56.25vw; */
   top: 56.25vw;
 }
 

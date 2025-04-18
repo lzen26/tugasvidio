@@ -21,7 +21,7 @@ function App() {
     <div>
       <div className='components1'></div>
       <p className='kepala1'>IPHONE</p>
-      <p className='kepala2'>DIDESAIN UNTUK DICINTAI</p>
+      <p className='kepala2'>Didesain untuk dicintai.</p>
     </div>
 
     <div style={{display:'flex', justifyContent:'center',}}>
@@ -31,7 +31,7 @@ function App() {
         </div>
 
         <div className='components2'>
-        <p className='kepala3'>KENALI IPHONE LEBIH DALAM</p>
+        <p className='kepala3'>KENALI IPHONE LEBIH DALAM.</p>
         </div>
       <div classname='kepala4'>
       <Swiper
